@@ -1,0 +1,11 @@
+.centered {
+  margin: auto;
+  margin-top: 60px;
+  display: table;
+  color: white;
+
+}
+
+.centered button {
+  margin: 25px;
+}

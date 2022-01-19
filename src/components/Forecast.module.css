@@ -1,0 +1,14 @@
+.centered {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: table;
+  color: white;
+}
+
+.card {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: white 3px solid;
+  border-radius: 1em;
+}

@@ -1,0 +1,5 @@
+.centered {
+  margin: auto;
+  padding: 50px;
+  display: table;
+}
