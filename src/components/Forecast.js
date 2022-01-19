@@ -4,7 +4,7 @@ import { Button, Card } from 'react-bootstrap'
 import classes from './Forecast.module.css'
 
 const API_KEY = 'd0880b50f8ef4ccba65211506221401'
-const URL = 'http://api.weatherapi.com/v1'
+const URL = 'https://api.weatherapi.com/v1'
 
 const Forecast = (props) => {
 	const [forecast, setForecast] = useState([])

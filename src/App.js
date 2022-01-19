@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react'
 import Forecast from './components/Forecast'
 
 const API_KEY = 'd0880b50f8ef4ccba65211506221401'
-const URL = 'http://api.weatherapi.com/v1'
+const URL = 'https://api.weatherapi.com/v1'
 
 function App() {
 	const [city, setCity] = useState('')
